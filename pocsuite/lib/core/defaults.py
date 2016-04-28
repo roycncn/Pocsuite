@@ -19,6 +19,6 @@ HTTP_DEFAULT_HEADER = {
     "Accept-Language": "zh-CN,zh;q=0.8",
     "Cache-Control": "max-age=0",
     "Connection": "keep-alive",
-    "Referer": "http://www.baidu.com",
+    "Referer": "http://www.google.com",
     "User-Agent": "Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0"
 }
